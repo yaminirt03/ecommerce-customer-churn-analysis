@@ -106,7 +106,7 @@ Power BI to visualize churn trends, customer behavior, and risk factors.
 
 ## 📷 Dashboard Preview
 
-![Dashboard] (E-Commerce Customer Churn Dashboard Image.jpeg)
+[View Dashboard](E-Commerce Customer Churn Dashboard Image.jpeg)
 
 ------------------------------------------------------------------------
 
